@@ -47,4 +47,4 @@ We hope to add features that analyze more aspects of credit score to provide an 
 
 ## Try it out
 
-[auth.eduscore.courses](auth.eduscore.courses)
+[Visit our site!](https://auth.eduscore.courses)
