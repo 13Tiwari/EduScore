@@ -1,2 +1,2 @@
 # EduScore
-# auth.eduscore.courses
+[Visit EduScore Courses](https://auth.eduscore.courses)
