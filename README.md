@@ -1,1 +1,2 @@
 # EduScore
+# auth.eduscore.courses
